@@ -28,19 +28,19 @@ color: white
 region: h2
 color: blue
 style: bold
-link: /index
+link: /NEW/index
 
 -- ftd.text: Contact us
 region: h2
 color: white
 style: bold
-link: /Contact
+link: /NEW/Contact
 
 -- ftd.text: About
 region: h2
 color: white
 style: bold
-link: /About
+link: /NEW/About
 
 -- end: ftd.row
 -- end: ftd.row
