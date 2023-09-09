@@ -1,4 +1,4 @@
-;; -- import: NEW_EZMED/buttons 
+;; -- import: SAKETNEW/buttons as buttons
 
 -- ftd.column:
 background.solid: #130c39
@@ -6,7 +6,7 @@ background.solid: #130c39
 width: fill-container
 height: fill-container
 
-;; ------------------------------------------------------------------------------
+;; -------------------------------------------------------------------------------
 
 -- ftd.row:
 spacing.fixed.px: 800
