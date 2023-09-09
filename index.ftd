@@ -1,4 +1,4 @@
--- import: NEW/buttons 
+-- import: /NEW/buttons as buttons
 
 -- ftd.column:
 background.solid: #130c39
